@@ -6,10 +6,11 @@
         "ms-python.black-formatter",
         "ms-python.flake8",
         "ms-python.isort",
-        "donjayamanne.python-environment-manager",
-        "donjayamanne.python-extension-pack",
+        "ms-python.mypy-type-checker",
+        "VisualStudioExptTeam.vscodeintellicode",
         "KevinRose.vsc-python-indent",
-        "LittleFoxTeam.vscode-python-test-adapter",
+        "njpwerner.autodocstring",
+        "donjayamanne.python-environment-manager",
         // coder setting
         "aliariff.auto-add-brackets",
         "editorconfig.editorconfig",
@@ -22,6 +23,8 @@
         // xml / yml / toml
         "bungcip.better-toml",
         "redhat.vscode-xml",
-        "redhat.vscode-yaml"
+        "redhat.vscode-yaml",
+        // json formatter
+        "esbenp.prettier-vscode",
     ]
 }
