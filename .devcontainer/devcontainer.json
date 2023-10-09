@@ -1,5 +1,5 @@
 {
-  "name": "edl-hosting",
+  "name": "template-vscode-python",
   "image": "mcr.microsoft.com/devcontainers/python:3.11-bookworm",
   "containerEnv": {
     "TZ": "Asia/Tokyo"
